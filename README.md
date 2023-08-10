@@ -23,6 +23,6 @@ What is the runtime of the algorithm that you implemented? Provide a recurrence
 relation for $T(n)$ as we did for merge sort (you can ignore constant factors)
 and solve it as we did in the lectures. Give the final $\Theta$ complexity.
 
-Describe your reasoning and the give answers either as a comment in your code or
-in a separate document that you submit on WyoCourses. Your reasoning is the most
-important part. Add your answer to this markdown file.
+Describe your reasoning and the conclusion you've come to. Your reasoning is the
+most important part. You do not need to prove that the invariant is correct. Add
+your answer to this markdown file.
