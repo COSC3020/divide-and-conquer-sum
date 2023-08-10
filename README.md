@@ -24,5 +24,4 @@ relation for $T(n)$ as we did for merge sort (you can ignore constant factors)
 and solve it as we did in the lectures. Give the final $\Theta$ complexity.
 
 Describe your reasoning and the conclusion you've come to. Your reasoning is the
-most important part. You do not need to prove that the invariant is correct. Add
-your answer to this markdown file.
+most important part. Add your answer to this markdown file.
