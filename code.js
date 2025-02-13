@@ -1,3 +1,4 @@
-// eslint-disable-next-line no-unused-varsfunction divideAndConquerSum(a) {
+// eslint-disable-next-line no-unused-vars
+function divideAndConquerSum(a) {
     return a;
 }
